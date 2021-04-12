@@ -1,0 +1,219 @@
+/* CSS Document*/
+
+#IndexDiv2{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+#IndexDiv1{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+div.topimg {
+   width:500px; /*width of your image*/
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+}
+#resulttable,#resultTable2{
+    text-align: center;
+    width: 100%;
+    background-color: #ccc;
+    border: solid 1px black;
+}
+table#resulttable td,tr{
+    border: 2px solid gray;
+    width: 30%;
+    font: 700 13px Helvetica,Arial;
+    color:black;
+}
+
+table#resulttable th{
+    background:#696969;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border: solid 1px black;
+    color:whitesmoke;
+    padding: 2px;
+    font: 700 13px Helvetica,Arial;
+    
+}
+
+table#resulttable2 td,tr{
+    border: 2px solid gray;
+    width: 30%;
+}
+
+table#resulttable input{
+    background:#696969;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border: solid 1px black;
+    color:whitesmoke;
+    padding: 6px;
+    font: 700 13px Helvetica,Arial;
+    float:right;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+}
+
+#tablelessdetails {
+color:white;
+padding: 5px;
+background-color: #ccc;
+border: solid 1px black;
+}
+
+#tablelessdetails table{
+    padding:15px;
+}
+
+#tablelessdetails td{
+    color:black;
+    padding:10px;
+    text-align: center;
+}
+
+#tablelessdetails th{
+    background:#696969;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border: solid 1px black;
+    color:whitesmoke;
+    padding: 2px;
+}
+
+#tablelessdetails p{
+    color:red;
+    margin-top: 15px;
+}
+
+#tablelessdetails h3{
+    color:black;
+    margin-top: 5px;
+    padding:5px;
+    
+}
+
+#tablelessdetails h2{
+    color:black;
+    font-size: 12px;
+    text-align: left;
+    
+}
+
+#tablelearningoutcomes{
+    color:white;
+    margin-bottom: 0px;
+    padding: 5px;
+    background-color: #ccc;
+    border: solid 1px black;
+}
+
+#tablelearningoutcomes table{
+    padding:2px;
+}
+
+#tablelearningoutcomes td{
+    color:black;
+    padding:2px;
+    text-align: center;
+}
+
+#tablelearningoutcomes th{
+    background:#696969;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border: solid 1px black;
+    color:whitesmoke;
+    padding: 2px;
+}
+
+#tablelearningoutcomes input{
+    margin-top: 8px;
+    border-radius: 3px;
+    font: 700 13px Helvetica,Arial;
+    height: 30px;
+    line-height: 28px;
+    padding: 0px 8px;
+    text-align: center;
+    box-sizing: border-box;
+    border: solid 1px black;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    float:right;
+}
+
+.indexButNoLogin{
+    display: inline-block;
+}
+#IndexDivRoot{
+    background-color: #DCDCDC;
+}
+#IndexDiv3{
+    background-color: #958C6B;
+}
+
+#tableTitle{
+    background-color: #BEBBAF;
+}
+#IndexDiv4{
+    background-color: #C8C7C3;
+}
+
+.errorSpan{
+    color: red;
+}
+.successSpan
+{
+    color:green;
+}
+.btnLink {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e7e7e7), color-stop(1, #aaaeb3) );
+	background:-moz-linear-gradient( center top, #e7e7e7 5%, #aaaeb3 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e7e7e7', endColorstr='#e7e7e7');
+	background-color:#ffffff;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+text-indent:0px;
+	border:2px solid #c0c1c2;
+	display:inline-block;
+	color:black;
+	font-family:Helvetica,Arial;
+	font-size:15px;
+	font-weight:normal;
+	font-style:normal;
+height:20px;
+	line-height:20px;
+width:100px;
+	text-decoration:none;
+	text-align:center;
+}.btnLink:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e7e7e7), color-stop(1, #e7e7e7) );
+	background:-moz-linear-gradient( center top, #e7e7e7 5%, #e7e7e7 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e7e7e7', endColorstr='#e7e7e7');
+	background-color:darkgray;
+}.btnLink:active {
+	position:relative;
+	top:1px;
+}
